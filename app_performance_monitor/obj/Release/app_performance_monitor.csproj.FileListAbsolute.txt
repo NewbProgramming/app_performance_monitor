@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\bin\Release\app_performance_monitor.exe.config
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\bin\Release\app_performance_monitor.exe
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\bin\Release\app_performance_monitor.pdb
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.performance_monitor.resources
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.Properties.Resources.resources
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.window_monitor.resources
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.csproj.GenerateResource.Cache
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.exe
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.pdb
+C:\OneDrive\Documents\Projects\app_performance_monitor\app_performance_monitor\obj\Release\app_performance_monitor.csprojResolveAssemblyReference.cache

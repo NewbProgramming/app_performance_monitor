@@ -29,33 +29,9 @@ namespace app_performance_monitor
         public bool hd_writing = false;
         public bool hd_reading = false;
         
-        public static double Math_Map(double value, double x, double y, double min, double max)
+        public static int Math_Map(int val, int inmin, double inmax, double outmin, double outmax)
         {
-            if(value <= x)
-            {
-                return min;
-            }
-            
-            if(value >= y)
-            {
-                return max;
-            }
-            
-            double xy_difference = y - x;
-            double minmax_difference = max - min;
-            double ratio = minmax_difference / xy_difference;
-            double product = value * ratio;
-            double result = product + min;
-
-            if(result < min)
-            {
-                return min;
-            }
-            else if(result > max)
-            {
-                return max;
-            }
-            return result;
+            return (int) ((float)(val - inmin) / (inmax - inmin) * (outmax - outmin) + outmin);
         }
 
         public window_monitor()
